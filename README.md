@@ -17,6 +17,17 @@ My interests include **full-stack development, backend engineering, and software
 I believe in continuous improvement, learning through experimentation, and approaching every challenge with purpose.
 
 ---
+---
+
+## 📄 RESUME & PROFESSIONAL PROFILE
+
+Computer Science Engineering student and Software Engineer Intern at SHNOOR International LLC, interested in full-stack development, software engineering, and building practical applications.
+
+📥 **[Download My Resume (PDF)](./resume.pdf)**
+
+💻 **[Explore My Repositories](https://github.com/Coder-Honey30?tab=repositories)**
+
+---
 
 ## 🛠️ TACTICAL TECH STACK
 
